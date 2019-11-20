@@ -1,0 +1,2 @@
+Q:unable to merge unrelated histories in this repository
+A:git pull --allow-unrelated-histories
